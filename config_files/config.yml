@@ -19,9 +19,9 @@ button_F: '<'
 button_G: '>'
 button_E: ''
 button_H: ''
-cmd_A: /S
-cmd_B: /W
-cmd_C: /N
+cmd_A: S
+cmd_B: W
+cmd_C: N
 cmd_D: ''
 cmd_E: ''
 cmd_H: ''
