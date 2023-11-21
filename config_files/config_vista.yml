@@ -9,7 +9,7 @@ status_G: ''
 status_H: ''
 sensor_A: arm_?
 sensor_B: rdy_?
-sensor_C: tr
+sensor_C: trbl_?
 sensor_D: chm_?
 button_A: ''
 button_B: ''
