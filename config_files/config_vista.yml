@@ -11,6 +11,10 @@ sensor_A: arm_?
 sensor_B: rdy_?
 sensor_C: trbl_?
 sensor_D: chm_?
+sensor_E: ''
+sensor_F: ''
+sensor_G: ''
+sensor_H: ''
 button_A: 'AWAY'
 button_B: 'STAY'
 button_C: 'NIGHT'
@@ -18,7 +22,6 @@ button_D: 'INSTANT'
 button_E: 'BYPASS'
 button_F: 'BP LIST'
 button_G: ''
-button_E: ''
 button_H: ''
 cmd_A: 'A'
 cmd_B: 'S'
