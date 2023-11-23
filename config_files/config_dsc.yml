@@ -46,6 +46,5 @@ view_status: true
 view_status_2: false
 view_bottom: true
 button_left: false
-partitions: 1
-default_partition: 1
+
 
