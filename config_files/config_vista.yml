@@ -1,4 +1,4 @@
-
+#sensor light labels
 status_A: ARMED
 status_B: READY
 status_C: TROUBLE
@@ -7,9 +7,9 @@ status_E: 'AWAY'
 status_F: 'STAY'
 status_G: 'INSTANT'
 status_H: 'AC'
-# The ? is used to substitute for the active partition
-# Enter the type_id of the binary status field.  
-# Replace the partition number with ? 
+#sensor associated binary_sensor id's
+#Enter the type_id of the binary status field 
+#Replace the partition number with ? as it will be used to substitute for the active partition
 sensor_A: arm_? 
 sensor_B: rdy_?
 sensor_C: trbl_?
@@ -19,6 +19,7 @@ sensor_F: arms_?
 sensor_G: armi_?
 sensor_H: ac
 
+#cmd button labels
 button_A: 'AWAY'
 button_B: 'STAY'
 button_C: 'NIGHT'
@@ -27,6 +28,7 @@ button_E: 'BYPASS'
 button_F: 'BP LIST'
 button_G: ''
 button_H: ''
+#button key cmds
 cmd_A: 'A'
 cmd_B: 'S'
 cmd_C: 'N'
@@ -36,6 +38,8 @@ cmd_F: 'Y'
 cmd_G: ''
 cmd_H: ''
 
+
+#keypad number secondary function labels
 text_1: OFF
 text_2: AWAY
 text_3: STAY
@@ -49,8 +53,10 @@ text_star: READY
 text_pound: ''
 text_0: ''
 
+#beep binary sensor. not implemented yet
 beep: bp_?
 
+#keypad display control options
 view_pad: true
 view_display: true
 view_status: true
