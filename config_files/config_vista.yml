@@ -29,9 +29,9 @@ cmd_B: 'S'
 cmd_C: 'N'
 cmd_D: 'I'
 cmd_E: 'B'
-cmd_H: 'Y'
-cmd_F: ''
+cmd_F: 'Y'
 cmd_G: ''
+cmd_H: ''
 text_1: OFF
 text_2: AWAY
 text_3: STAY
