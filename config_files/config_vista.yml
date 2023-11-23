@@ -18,6 +18,7 @@ sensor_E: arma_?
 sensor_F: arms_?
 sensor_G: armi_?
 sensor_H: ac
+
 button_A: 'AWAY'
 button_B: 'STAY'
 button_C: 'NIGHT'
@@ -34,6 +35,7 @@ cmd_E: 'B'
 cmd_F: 'Y'
 cmd_G: ''
 cmd_H: ''
+
 text_1: OFF
 text_2: AWAY
 text_3: STAY
@@ -46,7 +48,9 @@ text_9: CHIME
 text_star: READY
 text_pound: ''
 text_0: ''
+
 beep: bp_?
+
 view_pad: true
 view_display: true
 view_status: true
@@ -55,4 +59,5 @@ view_bottom: true
 button_left: false
 partitions: 1
 default_partition: 1
+night_mode: true
 
