@@ -7,7 +7,8 @@ status_E: ''
 status_F: ''
 status_G: ''
 status_H: ''
-sensor_A: arm_?
+# the ? is used to substitute for the active partition
+sensor_A: arm_? 
 sensor_B: rdy_?
 sensor_C: trbl_?
 sensor_D: chm_?
