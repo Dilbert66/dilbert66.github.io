@@ -3,10 +3,10 @@ status_A: ARMED
 status_B: READY
 status_C: TROUBLE
 status_D: CHIME
-status_E: ''
-status_F: ''
-status_G: ''
-status_H: ''
+status_E: 'AWAY'
+status_F: 'STAY'
+status_G: 'INSTANT'
+status_H: 'AC'
 # The ? is used to substitute for the active partition
 # Enter the type_id of the binary status field.  
 # Replace the partition number with ? 
@@ -14,10 +14,10 @@ sensor_A: arm_?
 sensor_B: rdy_?
 sensor_C: trbl_?
 sensor_D: chm_?
-sensor_E: ''
-sensor_F: ''
-sensor_G: ''
-sensor_H: ''
+sensor_E: arma_?
+sensor_F: arms_?
+sensor_G: armi_?
+sensor_H: ac
 button_A: 'AWAY'
 button_B: 'STAY'
 button_C: 'NIGHT'
@@ -50,7 +50,7 @@ beep: bp_?
 view_pad: true
 view_display: true
 view_status: true
-view_status_2: false
+view_status_2: true
 view_bottom: true
 button_left: false
 partitions: 1
