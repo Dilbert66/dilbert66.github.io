@@ -23,9 +23,9 @@ sensor_H: ac
 button_A: 'AWAY'
 button_B: 'STAY'
 button_C: 'NIGHT'
-button_D: 'INSTANT'
-button_E: 'BYPASS'
-button_F: 'BP LIST'
+button_D: 'INST'
+button_E: 'BYPAS'
+button_F: 'BPLST'
 button_G: ''
 button_H: ''
 #button key cmds
