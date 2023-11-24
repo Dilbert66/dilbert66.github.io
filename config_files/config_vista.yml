@@ -1,3 +1,6 @@
+#display line ids
+line_1: ln1_?
+line_2: ln2_?
 #sensor light labels
 status_A: ARMED
 status_B: READY
@@ -5,7 +8,7 @@ status_C: TROUBLE
 status_D: CHIME
 status_E: 'AWAY'
 status_F: 'STAY'
-status_G: 'INSTANT'
+status_G: 'INST'
 status_H: 'AC'
 #sensor associated binary_sensor id's
 #Enter the type_id of the binary status field 

@@ -1,3 +1,6 @@
+#display line ids
+line_1: ln1_?
+line_2: ln2_?
 #sensor light labels
 status_A: READY
 status_B: ARMED
