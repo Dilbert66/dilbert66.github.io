@@ -66,5 +66,5 @@ view_status: true
 view_status2: false
 view_bottom: true
 button_left: false
-vibration_duration: 50
+vibration_duration: 5
 
