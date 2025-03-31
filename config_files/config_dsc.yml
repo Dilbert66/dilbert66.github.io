@@ -56,6 +56,8 @@ view_status2: false
 view_bottom: true
 button_left: false
 vibration_duration: 5
+button_disabled_E: true
+button_disabled_H: true
 
 #status icon configuration for sensors
 status_A_off_icon: mdi:circle-off-outline
@@ -70,6 +72,7 @@ status_B_color: red
 status_D_on_icon: mdi:power-plug
 status_D_off_icon: mdi:power-plug-off-outline
 status_D_color: green
+
 
 #optional styling and colors for keypad if needed. 
 style:
@@ -94,5 +97,6 @@ style:
   --lcdtextcolorlight: "#222"
   --bordercolorlight: "#898e94"
   --sensoroffcolorlight: "#bbb"
+
 
 
