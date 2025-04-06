@@ -13,7 +13,6 @@ sensor_ac: ac
 #button key cmds
 cmd_stay: S
 cmd_away: W
-cmd_C: N
 cmd_chime: C
 cmd_reset: R
 cmd_exit: X
